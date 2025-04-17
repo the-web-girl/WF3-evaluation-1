@@ -18,7 +18,7 @@ En fin d’évaluation, pensez à uplaoder l’archive .rar de votre projet afin
 ## Exercice 2 (16 points) : Intégration Home Page
 Votre mission consiste à intégrer une page web ainsi que tous ces éléments.
 Récupérer chaque fichier en double cliquant, ou en copiant/collant, le lien ci-dessous :
-- http://wf3.fr/evaluations/2018/html-css-intermediaire/eval-html-css-intermediaire.rar
+http://wf3.fr/evaluations/2018/html-css-intermediaire/eval-html-css-intermediaire.rar
 Le fichier « graphisme-catalogue.psd » représente la page catalogue qu’il faudra intégrer sous forme de page web.
 Les images sont fournies par le webdesigner. Il faudra les intégrer en page web HTML/CSS avec le maximum de
 précisions afin que la page web soit la plus ressemblante possible par rapport à la capture d’écran.
