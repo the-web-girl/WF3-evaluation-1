@@ -90,7 +90,7 @@ header .container-btns .container-counter {
     flex-direction: row;
     justify-content: space-around;
 }
-.content-nav nav ul span {
+.content-nav nav ul .ignore {
     border-left: 1px solid black;
     border-right: 1px solid black;
     height: 40px;
