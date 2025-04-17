@@ -30,6 +30,10 @@ header .logo img {
     padding: 0 25px;
     max-width: 470px;
 }
+header .logo h1 {
+    font-size: 0px;
+}
+
 header .logo p {
     padding: 0 25px;
     width: 450px;
@@ -90,11 +94,11 @@ header .container-btns .container-counter {
     flex-direction: row;
     justify-content: space-around;
 }
-.content-nav nav ul .ignore {
+/* .content-nav nav ul .ignore {
     border-left: 1px solid black;
     border-right: 1px solid black;
     height: 40px;
-}
+} */
 .content-nav nav ul li {
     width: 125px;
     list-style: none;
@@ -102,6 +106,9 @@ header .container-btns .container-counter {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    height: 40px;
 }
 .content-nav nav ul li a {
     text-decoration: none;
@@ -189,8 +196,9 @@ main .container-main .cards-container .cards-content article {
 .product img {
     width: 100%;
 }
-.product p {
+.product h2 {
     text-align: center;
+    font-size: 16px;
 }
 .reduc-stick {
     background-color: #3c3c3c;
