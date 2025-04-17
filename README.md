@@ -31,5 +31,4 @@ soit : Chrome, Firefox, Edge, Safari, Opéra
 Le code-source du site devra être valide w3c et également indenté, commenté pour faciliter le travail collaboratif ou la
 reprise de projet.
 
-
-src\img\graphisme-catalogue.png
+![graphisme-catalogue](https://github.com/user-attachments/assets/6cfebd9f-5070-435a-ab5b-af9f7b903063)
