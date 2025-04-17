@@ -4,9 +4,9 @@ Temps imparti : 4h00
 ## Notation
 A la fin du temps imparti, vous devrez livrer l’intégralité de vos fichiers, et une note sur 20 sera attribuée
 selon le barème suivant :
-- ● Exercice 1 : 2 points
-- ● Exercice 2 : 16 points
-- ● Exercice 3 : 2 points
+-  Exercice 1 : 2 points
+-  Exercice 2 : 16 points
+-  Exercice 3 : 2 points
 
 ## Exercice 1 (2 points) : Hébergement
 Créer un compte sur https://fr.000webhost.com/ ou https://infinityfree.net/ ou l’hébergeur de votre choix et uplaoder vos codes-sources de l’évaluation sur ce serveur.
@@ -30,3 +30,6 @@ L’ensemble du portail devra être compatible avec les dernières versions des 
 soit : Chrome, Firefox, Edge, Safari, Opéra
 Le code-source du site devra être valide w3c et également indenté, commenté pour faciliter le travail collaboratif ou la
 reprise de projet.
+
+
+src\img\graphisme-catalogue.png
