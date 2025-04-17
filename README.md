@@ -24,6 +24,7 @@ Les images sont fournies par le webdesigner. Il faudra les intégrer en page web
 précisions afin que la page web soit la plus ressemblante possible par rapport à la capture d’écran.
 Le client ne demande pas à avoir une version mobile.
 Le responsive serait un + mais cela reste du bonus.
+![graphisme-catalogue](https://github.com/user-attachments/assets/6cfebd9f-5070-435a-ab5b-af9f7b903063)
 
 ## Exercice 3 (2 points) : W3C Valide & Compatible Navigateurs récents
 L’ensemble du portail devra être compatible avec les dernières versions des navigateurs les plus utilisés du marché,
@@ -31,4 +32,3 @@ soit : Chrome, Firefox, Edge, Safari, Opéra
 Le code-source du site devra être valide w3c et également indenté, commenté pour faciliter le travail collaboratif ou la
 reprise de projet.
 
-![graphisme-catalogue](https://github.com/user-attachments/assets/6cfebd9f-5070-435a-ab5b-af9f7b903063)
